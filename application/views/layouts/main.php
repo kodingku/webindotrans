@@ -71,28 +71,16 @@ if ( function_exists( 'date_default_timezone_set' ) ) {
               <div class="collapse navbar-collapse align-items-center flex-sm-row" id="navBar">
                 <ul id="js-scroll-nav" class="navbar-nav text-uppercase g-letter-spacing-2 g-font-size-11 g-pt-20 g-pt-0--lg ml-auto">
                   <li class="nav-item g-mr-15--lg g-mb-7 g-mb-0--lg active">
-                    <a href="#home" class="nav-link g-color-white p-0">Home <span class="sr-only">(current)</span></a>
+                    <a href="#beranda" class="nav-link g-color-white p-0">Beranda<span class="sr-only">(current)</span></a>
                   </li>
                   <li class="nav-item g-mx-15--lg g-mb-7 g-mb-0--lg">
-                    <a href="#about" class="nav-link g-color-white p-0">About</a>
+                    <a href="#produklayanan" class="nav-link g-color-white p-0">Produk dan Layanan</a>
                   </li>
                   <li class="nav-item g-mx-15--lg g-mb-7 g-mb-0--lg">
-                    <a href="#services" class="nav-link g-color-white p-0">Services</a>
+                    <a href="#tentangkami" class="nav-link g-color-white p-0">Tentang Kami</a>
                   </li>
                   <li class="nav-item g-mx-15--lg g-mb-7 g-mb-0--lg">
-                    <a href="#processes" class="nav-link g-color-white p-0">Processes</a>
-                  </li>
-                  <li class="nav-item g-mx-15--lg g-mb-7 g-mb-0--lg">
-                    <a href="#projects" class="nav-link g-color-white p-0">Projects</a>
-                  </li>
-                  <li class="nav-item g-mx-15--lg g-mb-7 g-mb-0--lg">
-                    <a href="#howWeWork" class="nav-link g-color-white p-0">How we work</a>
-                  </li>
-                  <li class="nav-item g-mx-15--lg g-mb-7 g-mb-0--lg">
-                    <a href="#news" class="nav-link g-color-white p-0">News</a>
-                  </li>
-                  <li class="nav-item g-ml-15--lg">
-                    <a href="#contact" class="nav-link g-color-white p-0">Contact</a>
+                    <a href="#karir" class="nav-link g-color-white p-0">Karir</a>
                   </li>
                 </ul>
               </div>
