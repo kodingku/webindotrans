@@ -12,9 +12,12 @@ if ( function_exists( 'date_default_timezone_set' ) ) {
 	<title>Kukode.com</title>
     <!-- Required Meta Tags Always Come First -->
     <meta charset="utf-8">
+    
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-
+    <meta name="description" content="jasa internet bogor,jasa pembuatan software aplikasi daerah jabodetabek">
+    <meta name="keywords" content="jasa internet murah,internet bogor,internet rumah,jasa internet jabodetabek,isp di bogor">
+    <meta name="author" content="adirahman@kukode.com">
     <!-- Favicon -->
     <link rel="shortcut icon" href="../../favicon.ico">
 
