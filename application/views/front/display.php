@@ -1051,12 +1051,12 @@
 
         <!-- Google (Map) [custom] -->
         <div class="g-pos-rel g-height-500">
-          <div id="gMap10" class="js-g-map g-pos-abs w-100 h-100"
+          <div id="map" class="js-g-map g-pos-abs w-100 h-100"
                data-type="custom"
-               data-lat="40.674"
-               data-lng="-73.946"
-               data-zoom="12"
-               data-title="Business"
+               data-lat="-6.472427"
+               data-lng="106.843513"
+               data-zoom="19"
+               data-title="PT. Indotrans Data"
                data-styles='[
                    ["", "", [{"saturation":-100},{"lightness":51},{"visibility":"simplified"}]],
                    ["", "labels", [{"visibility":"on"}]],
@@ -1067,24 +1067,6 @@
         </div>
         <!-- End Google (Map) [custom] -->
 
-        <div class="text-center g-color-gray-dark-v3 g-pa-30">
-          <div class="g-width-600 mx-auto">
-            <h4 class="g-font-size-17 g-letter-spacing-1 g-mb-15">subscribe
-              <span class="text-uppercase">on our offers</span></h4>
-
-            <form>
-              <div class="form-group g-pos-rel g-mb-15">
-                <input class="form-control g-placeholder-gray-light-v1 g-font-size-default g-color-gray-dark-v3 g-placeholder-inherit g-brd-gray-light-v4 g-brd-gray-light-v4--focus rounded-0 g-pa-12 g-pr-40" type="text" placeholder="Enter Your Email">
-
-                <div class="g-pos-abs g-top-0 g-right-0 g-flex-centered g-width-40 h-100 g-color-gray-light-v1">
-                  <i class="icon-envelope"></i></div>
-              </div>
-            </form>
-
-            <p class="g-font-size-12 mb-0">© 2017 All right reserved. Unify developed by
-              <a href="#" class="g-color-primary">Htmlstream</a></p>
-          </div>
-        </div>
       </footer>
 
       <a class="js-go-to u-go-to-v1" href="#"
