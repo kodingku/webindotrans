@@ -9,7 +9,7 @@ if ( function_exists( 'date_default_timezone_set' ) ) {
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Kukode.com</title>
+  <title>Kukode.com</title>
     <!-- Required Meta Tags Always Come First -->
     <meta charset="utf-8">
     
@@ -35,15 +35,15 @@ if ( function_exists( 'date_default_timezone_set' ) ) {
     <link rel="stylesheet" href="<?php echo base_url();?>assets/vendor/animate.css">
     <link rel="stylesheet" href="<?php echo base_url();?>assets/vendor/slick-carousel/slick/slick.css">
 
-	<!-- CSS Unify -->
+  <!-- CSS Unify -->
     <link rel="stylesheet" href="<?php echo base_url();?>assets/css/unify-core.css">
     <link rel="stylesheet" href="<?php echo base_url();?>assets/css/unify-components.css">
     <link rel="stylesheet" href="<?php echo base_url();?>assets/css/unify-globals.css">
- 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
- 	<link rel="stylesheet" href="<?php echo base_url();?>assets/css/custom.css">
- 	<!-- syntaxhighlight plugin -->
-	<link rel="stylesheet" href="<?php echo base_url();?>assets/plugin/syntax/styles/shCore.css">
-   	<link rel="stylesheet" href="<?php echo base_url();?>assets/plugin/syntax/styles/shThemeDefault.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
+  <link rel="stylesheet" href="<?php echo base_url();?>assets/css/custom.css">
+  <!-- syntaxhighlight plugin -->
+  <link rel="stylesheet" href="<?php echo base_url();?>assets/plugin/syntax/styles/shCore.css">
+    <link rel="stylesheet" href="<?php echo base_url();?>assets/plugin/syntax/styles/shThemeDefault.css">
 
     <!-- CSS Template -->
     <link rel="stylesheet" href="<?php echo base_url();?>assets/css/styles.op-business.css">
@@ -54,7 +54,7 @@ if ( function_exists( 'date_default_timezone_set' ) ) {
 
     
 </head>
-<body style="background-image: url('<?php echo base_url()?>assets/img/bata.png');">
+<body>
     <main>  
       <!-- Header v1 -->
       <header id="js-header" class="u-header u-header--sticky-top u-header--change-appearance"
@@ -108,14 +108,14 @@ if ( function_exists( 'date_default_timezone_set' ) ) {
         </div>
       </header>
       <!-- End Header v1 -->
-	 
+   
 
-	<div class="container-fluid">
-		<?php $this->load->view($main) ?>
-	</div>
+      <!-- Body v1 -->
+      <?php $this->load->view($main) ?>
+      <!-- End Body v1 -->
 
     </main>
-	
+  
     <!-- JS Global Compulsory -->
     <script src="<?php echo base_url();?>assets/vendor/jquery/jquery.min.js"></script>
     <script src="<?php echo base_url();?>assets/vendor/jquery-migrate/jquery-migrate.min.js"></script>
@@ -225,7 +225,7 @@ if ( function_exists( 'date_default_timezone_set' ) ) {
     </script>
 
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAtt1z99GtrHZt_IcnK-wryNsQ30A112J0&callback=initMap" async></script>
-	
+  
 
 </body>
 </html>
