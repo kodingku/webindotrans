@@ -59,7 +59,7 @@ if ( function_exists( 'date_default_timezone_set' ) ) {
       <!-- Header v1 -->
       <header id="js-header" class="u-header u-header--sticky-top u-header--change-appearance"
               data-header-fix-moment="100">
-        <div class="u-header__section g-theme-bg-blue-dark-v1-opacity-0_9 g-transition-0_3 g-py-25"
+        <div class="u-header__section g-bg-blue-lineargradient-v2 g-transition-0_3 g-py-25"
              data-header-fix-moment-exclude="g-py-25"
              data-header-fix-moment-classes="g-py-20">
           <nav class="navbar navbar-expand-lg py-0">
