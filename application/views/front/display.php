@@ -6,22 +6,36 @@
              data-infinite="true"
              data-fade="true"
              data-speed="5000">
-          <div class="js-slide g-bg-img-hero g-height-100vh g-min-height-500--md" style="background-image: url(assets/img-temp/1600x1075/img1.jpg);"></div>
 
-          <div class="js-slide g-bg-img-hero g-height-100vh g-min-height-500--md" style="background-image: url(assets/img-temp/1600x1075/img2.jpg);"></div>
-        </div>
-
-        <div class="g-absolute-centered w-100">
-          <div class="container text-center g-width-780">
-            <div class="info-v3-4 g-theme-bg-blue-dark-v1-opacity-0_9 g-pa-20 g-pa-60--md">
-              <div class="g-pos-rel g-z-index-3">
-                <h3 class="h3 text-uppercase g-letter-spacing-3 g-font-size-default g-color-white g-mb-10">We are Unify</h3>
-                <h2 class="h2 text-uppercase g-color-white g-letter-spacing-5 g-font-weight-400 g-font-size-25 g-font-size-35--md g-mb-20">Business &amp; Corporation</h2>
-                <p class="g-line-height-1_8 g-letter-spacing-3 g-color-white g-mb-20">Sed feugiat porttitor nunc, non dignissim
-                  <br> ipsum vestibulum in. Donec in blandit dolor.</p>
-                <a href="#" class="btn text-uppercase u-btn-outline-white rounded-0">Learn More</a>
-              </div>
-            </div>
+          <div class="js-slide g-bg-img-hero g-height-100vh g-min-height-500--md" style="background-image: url(assets/img/Slider-Excellent-Server.jpg);">
+          	<div class="g-absolute-centered w-100">
+	          <div class="container text-center g-width-780">
+	            <div class="info-v3-4 g-theme-bg-blue-dark-v1-opacity-0_9 g-pa-20 g-pa-60--md">
+	              <div class="g-pos-rel g-z-index-3">
+	                <h3 class="h3 text-uppercase g-letter-spacing-3 g-font-size-default g-color-white g-mb-10">HOSTING, DEDICATED, ATAU COLLOCATION SERVER</h3>
+	                <h2 class="h2 text-uppercase g-color-white g-letter-spacing-5 g-font-weight-400 g-font-size-25 g-font-size-35--md g-mb-20">DATA CENTER EKSKLUSIF POWERED BY CNDC</h2>
+	              </div>
+	            </div>
+	          </div>
+	        </div>
+          </div>
+          <div class="js-slide g-bg-img-hero g-height-100vh g-min-height-500--md" style="background-image: url(assets/img/Slider-Wide-Interconnection.jpg);">      	
+	        <div class="g-absolute-centered w-100">
+	          <div class="container text-center g-width-780">
+	            <div class="info-v3-4 g-theme-bg-blue-dark-v1-opacity-0_9 g-pa-20 g-pa-60--md">
+	              <div class="g-pos-rel g-z-index-3">
+	                <h3 class="h3 text-uppercase g-letter-spacing-3 g-font-size-default g-color-white g-mb-10">INTERKONEKSI KE SELURUH PELOSOK INDONESIA</h3>
+	                <h2 class="h2 text-uppercase g-color-white g-letter-spacing-5 g-font-weight-400 g-font-size-25 g-font-size-35--md g-mb-20">DENGAN MENGGUNAKAN TEKNOLOGI VSAT</h2>
+	              </div>
+	            </div>
+	          </div>
+	        </div>
+          </div>
+          <div class="js-slide g-bg-img-hero g-height-100vh g-min-height-500--md g-pt-130">
+          		<img class="img-fluid h-100 w-100" src="assets/img/Slider-SOHO.jpg" alt="Image description"> 
+          </div>
+          <div class="js-slide g-bg-img-hero g-height-100vh g-min-height-500--md g-pt-130">
+          		<img class="img-fluid h-100 w-100" src="assets/img/Slider-Smarthome.jpg" alt="Image description"> 
           </div>
         </div>
       </section>
