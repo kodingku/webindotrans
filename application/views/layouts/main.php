@@ -9,7 +9,7 @@ if ( function_exists( 'date_default_timezone_set' ) ) {
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Kukode.com</title>
+  <title>PT. Indotrans Data | Jasa Penyedia Internet</title>
     <!-- Required Meta Tags Always Come First -->
     <meta charset="utf-8">
     
