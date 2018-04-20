@@ -289,7 +289,126 @@
                data-autoplay="true"
                data-infinite="true"
                data-slides-show="6">
-           
+               <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
+                <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/client/212.jpeg" alt="Image Description">
+              </div>
+              <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
+                <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/client/argapura.png" alt="Image Description">
+              </div>
+              <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
+                <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/client/asabri.png" alt="Image Description">
+              </div>
+              <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
+                <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/client/bogor.png" alt="Image Description">
+              </div>
+              <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
+                <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/client/btb.png" alt="Image Description">
+              </div>
+              <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
+                <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/client/ccc.png" alt="Image Description">
+              </div>
+              <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
+                <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/client/cimb.png" alt="Image Description">
+              </div>
+              <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
+                <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/client/dbesto.jpeg" alt="Image Description">
+              </div>
+              <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
+                <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/client/dkm.png" alt="Image Description">
+              </div>
+              <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
+                <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/client/drymix.png" alt="Image Description">
+              </div>
+              <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
+                <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/client/dunkin.png" alt="Image Description">
+              </div>
+              <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
+                <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/client/ebara.png" alt="Image Description">
+              </div>
+              <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
+                <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/client/gemilang.png" alt="Image Description">
+              </div>
+              <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
+                <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/client/ipb.png" alt="Image Description">
+              </div>
+              <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
+                <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/client/jamsostek.png" alt="Image Description">
+              </div>
+              <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
+                <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/client/jayabaya.png" alt="Image Description">
+              </div>
+              <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
+                <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/client/kejakcibinong.png" alt="Image Description">
+              </div>
+              <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
+                <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/client/kemdalmnegri.png" alt="Image Description">
+              </div>
+              <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
+                <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/client/kpu.png" alt="Image Description">
+              </div>
+              <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
+                <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/client/kumham.png" alt="Image Description">
+              </div>
+              <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
+                <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/client/lapan.png" alt="Image Description">
+              </div>
+              <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
+                <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/client/mcdonal.png" alt="Image Description">
+              </div>
+              <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
+                <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/client/mitramandiri.png" alt="Image Description">
+              </div>
+              <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
+                <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/client/modena.png" alt="Image Description">
+              </div>
+              <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
+                <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/client/musi.png" alt="Image Description">
+              </div>
+              <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
+                <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/client/mutu.png" alt="Image Description">
+              </div>
+              <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
+                <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/client/permata.png" alt="Image Description">
+              </div>
+              <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
+                <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/client/PP.png" alt="Image Description">
+              </div>
+              <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
+                <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/client/salemba.png" alt="Image Description">
+              </div>
+              <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
+                <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/client/sbiru.png" alt="Image Description">
+              </div>
+              <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
+                <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/client/senjaya.png" alt="Image Description">
+              </div>
+              <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
+                <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/client/sim.png" alt="Image Description">
+              </div>
+              <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
+                <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/client/sinarroda.png" alt="Image Description">
+              </div>
+              <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
+                <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/client/stie.png" alt="Image Description">
+              </div>
+              <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
+                <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/client/ticmi.png" alt="Image Description">
+              </div>
+              <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
+                <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/client/uika.png" alt="Image Description">
+              </div>
+              <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
+                <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/client/UIN.png" alt="Image Description">
+              </div>
+              <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
+                <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/client/unis.png" alt="Image Description">
+              </div>
+              <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
+                <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/client/urban.png" alt="Image Description">
+              </div>
+              <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
+                <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/client/zoom.png" alt="Image Description">
+              </div>
           </div>
 
           <div class="container g-width-780 g-mb-60">
@@ -302,50 +421,59 @@
                data-autoplay="true"
                data-infinite="true"
                data-slides-show="6">
-             <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
-              <img class="img-fluid g-max-width-170--md mx-auto" src="assets/img/apjii.png" alt="Image Description">
+            
+
+            <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
+              <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/suport/axigen.png" alt="Image Description">
             </div>
 
             <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
-              <img class="img-fluid g-max-width-170--md mx-auto" src="assets/img/suport/axigen.png" alt="Image Description">
+              <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/suport/cixco.png" alt="Image Description">
             </div>
 
             <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
-              <img class="img-fluid g-max-width-170--md mx-auto" src="assets/img/suport/cixco.png" alt="Image Description">
+              <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/suport/cpanel.png" alt="Image Description">
             </div>
 
             <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
-              <img class="img-fluid g-max-width-170--md mx-auto" src="assets/img/ipv6-v2.png" alt="Image Description">
+              <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/suport/huawei.png" alt="Image Description">
+            </div>
+            <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
+              <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/suport/indosat.png" alt="Image Description">
+            </div>
+            <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
+              <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/suport/jadiklan.png" alt="Image Description">
+            </div>
+            <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
+              <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/suport/jdn.png" alt="Image Description">
+            </div>
+
+
+            <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
+              <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/suport/juniper.png" alt="Image Description">
+            </div>
+            <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
+              <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/suport/matrix.png" alt="Image Description">
             </div>
 
             <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
-              <img class="img-fluid g-max-width-170--md mx-auto" src="assets/img/suport/juniper.png" alt="Image Description">
+              <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/suport/mikrotik.png" alt="Image Description">
             </div>
 
             <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
-              <img class="img-fluid g-max-width-170--md mx-auto" src="assets/img/suport/mikrotik.png" alt="Image Description">
+              <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/suport/spam.png" alt="Image Description">
             </div>
             <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
-              <img class="img-fluid g-max-width-170--md mx-auto" src="assets/img/suport/cpanel.png" alt="Image Description">
+              <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/suport/telkom.png" alt="Image Description">
             </div>
             <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
-              <img class="img-fluid g-max-width-170--md mx-auto" src="assets/img/suport/huawei.jpeg" alt="Image Description">
+              <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/suport/xl.png" alt="Image Description">
             </div>
             <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
-              <img class="img-fluid g-max-width-170--md mx-auto" src="assets/img/suport/jadiklan.png" alt="Image Description">
+              <img class="img-fluid g-max-width-170--md mx-auto" src="<?php echo base_url()?>assets/img/suport/zimbra.png" alt="Image Description">
             </div>
-            <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
-              <img class="img-fluid g-max-width-170--md mx-auto" src="assets/img/suport/jdn.png" alt="Image Description">
-            </div>
-            <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
-              <img class="img-fluid g-max-width-170--md mx-auto" src="assets/img/suport/spamemail.png" alt="Image Description">
-            </div>
-            <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
-              <img class="img-fluid g-max-width-170--md mx-auto" src="assets/img/suport/whmsonic.png" alt="Image Description">
-            </div>
-            <div class="js-slide g-brd-around g-brd-gray-light-v1--hover g-transition-0_2 g-mx-10 g-my-1">
-              <img class="img-fluid g-max-width-170--md mx-auto" src="assets/img/suport/zimbra.png" alt="Image Description">
-            </div>
+
+            
           </div>
         </div>
       </section>
