@@ -59,9 +59,9 @@ if ( function_exists( 'date_default_timezone_set' ) ) {
       <!-- Header v1 -->
       <header id="js-header" class="u-header u-header--sticky-top u-header--change-appearance"
               data-header-fix-moment="100">
-        <div class="u-header__section g-bg-blue-lineargradient-v2 g-transition-0_3 g-py-25"
+        <div class="u-header__section g-transition-0_3 g-py-25"
              data-header-fix-moment-exclude="g-py-25"
-             data-header-fix-moment-classes="g-py-20">
+             data-header-fix-moment-classes="g-py-20" style="background-color: #ffa600">
           <nav class="navbar navbar-expand-lg py-0">
             <div class="container g-pos-rel">
               <!-- Logo -->
@@ -72,19 +72,20 @@ if ( function_exists( 'date_default_timezone_set' ) ) {
 
               <!-- Navigation -->
               <div class="collapse navbar-collapse align-items-center flex-sm-row" id="navBar">
-                <ul id="js-scroll-nav" class="navbar-nav text-uppercase g-letter-spacing-2 g-font-size-11 g-pt-20 g-pt-0--lg ml-auto">
+                <ul id="js-scroll-nav" class="navbar-nav text-uppercase g-letter-spacing-2 g-font-size-14  g-pt-20 g-pt-0--lg ml-auto">
                   <li class="nav-item g-mr-15--lg g-mb-7 g-mb-0--lg active">
                     <a href="#beranda" class="nav-link g-color-white p-0">Beranda<span class="sr-only">(current)</span></a>
                   </li>
                   <li class="nav-item g-mx-15--lg g-mb-7 g-mb-0--lg">
-                    <a href="#jaminan" class="nav-link g-color-white p-0">Jaminan</a>
+                    <a href="#tentang" class="nav-link g-color-white p-0">Tentang Kami</a>
                   </li>
                   <li class="nav-item g-mx-15--lg g-mb-7 g-mb-0--lg">
                     <a href="#produklayanan" class="nav-link g-color-white p-0">Produk dan Layanan</a>
                   </li>
                   <li class="nav-item g-mx-15--lg g-mb-7 g-mb-0--lg">
-                    <a href="#powered" class="nav-link g-color-white p-0">Powered</a>
+                    <a href="#powered" class="nav-link g-color-white p-0">Client</a>
                   </li>
+                  
                   <li class="nav-item g-mx-15--lg g-mb-7 g-mb-0--lg">
                     <a href="#kontak" class="nav-link g-color-white p-0">Kontak</a>
                   </li>
@@ -139,7 +140,7 @@ if ( function_exists( 'date_default_timezone_set' ) ) {
     <script src="<?php echo base_url();?>assets/js/components/hs.carousel.js"></script>
     <script src="<?php echo base_url();?>assets/js/components/gmap/hs.map.js"></script>
     <script src="<?php echo base_url();?>assets/js/components/hs.go-to.js"></script>
-
+    <script defer src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
     <!-- JS Customization -->
     <script src="<?php echo base_url();?>assets/js/custom.js"></script>
 
