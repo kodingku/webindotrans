@@ -77,13 +77,16 @@ if ( function_exists( 'date_default_timezone_set' ) ) {
                     <a href="#beranda" class="nav-link g-color-white p-0">Beranda<span class="sr-only">(current)</span></a>
                   </li>
                   <li class="nav-item g-mx-15--lg g-mb-7 g-mb-0--lg">
+                    <a href="#jaminan" class="nav-link g-color-white p-0">Jaminan</a>
+                  </li>
+                  <li class="nav-item g-mx-15--lg g-mb-7 g-mb-0--lg">
                     <a href="#produklayanan" class="nav-link g-color-white p-0">Produk dan Layanan</a>
                   </li>
                   <li class="nav-item g-mx-15--lg g-mb-7 g-mb-0--lg">
-                    <a href="#tentangkami" class="nav-link g-color-white p-0">Tentang Kami</a>
+                    <a href="#powered" class="nav-link g-color-white p-0">Powered</a>
                   </li>
                   <li class="nav-item g-mx-15--lg g-mb-7 g-mb-0--lg">
-                    <a href="#karir" class="nav-link g-color-white p-0">Karir</a>
+                    <a href="#kontak" class="nav-link g-color-white p-0">Kontak</a>
                   </li>
                 </ul>
               </div>
