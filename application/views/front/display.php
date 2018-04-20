@@ -231,7 +231,7 @@
 
           <!-- Icon Blocks -->
           <div class="row no-gutters">
-            <div class="col-md-4 col-lg-4 g-parent g-brd-around g-brd-gray-light-v4 g-brd-bottom-primary--hover g-brd-bottom-2--hover g-mb-30 g-mb-0--lg  g-transition-0_2 g-transition--ease-in">
+            <div class="col-md-4 col-lg-4 g-parent g-brd-around g-brd-gray-light-v4 g-brd-bottom-white--hover g-brd-bottom-2--hover g-mb-30 g-mb-0--lg  g-transition-0_2 g-transition--ease-in">
               <!-- Icon Blocks -->
               <div class="text-center g-px-10  g-px-30--lg g-py-40 g-pt-25--parent-hover g-transition-0_2 g-transition--ease-in">
                 <span class="d-block g-color-white g-font-size-40 g-mb-15">
@@ -240,12 +240,12 @@
                 <h3 class="h5 text-uppercase g-color-white g-mb-10">Support 24 Jam</h3>
                 <p class="g-color-white">Team Technical Indotrans Data memberikan layanan informasi teknis bagi PELANGGAN selama 24 jam sehari, 7 hari seminggu.</p>
 
-                <div class="d-inline-block g-width-40 g-brd-bottom g-brd-2 g-brd-primary g-my-15"></div>
+                <div class="d-inline-block g-width-40 g-brd-bottom g-brd-2 g-brd-white g-my-15"></div>
               </div>
               <!-- End Icon Blocks -->
             </div>
 
-            <div class="col-md-4 col-lg-4 g-parent g-brd-around g-brd-gray-light-v4 g-brd-bottom-primary--hover g-brd-bottom-2--hover g-mb-30 g-mb-0--md g-ml-minus-1 g-transition-0_2 g-transition--ease-in">
+            <div class="col-md-4 col-lg-4 g-parent g-brd-around g-brd-gray-light-v4 g-brd-bottom-white--hover g-brd-bottom-2--hover g-mb-30 g-mb-0--md g-ml-minus-1 g-transition-0_2 g-transition--ease-in">
               <!-- Icon Blocks -->
               <div class="text-center g-px-10 g-px-30--lg g-py-40 g-pt-25--parent-hover g-transition-0_2 g-transition--ease-in">
                 <span class="d-block g-color-white g-font-size-40 g-mb-15">
@@ -254,12 +254,12 @@
                 <h3 class="h5 text-uppercase g-color-white g-mb-10">SLA 99% Guarantee</h3>
                 <p class="g-color-white">Kami menjamin Service Level Agreement bagi pengguna produk kami sebesar 99%. Kami berkomitmen untuk menjamin keamanan dari kerusakan.</p>
 
-                <div class="d-inline-block g-width-40 g-brd-bottom g-brd-2 g-brd-primary g-my-15"></div>
+                <div class="d-inline-block g-width-40 g-brd-bottom g-brd-2 g-brd-white g-my-15"></div>
               </div>
               <!-- End Icon Blocks -->
             </div>
 
-            <div class="col-md-4 col-lg-4 g-parent g-brd-around g-brd-gray-light-v4 g-brd-bottom-primary--hover g-brd-bottom-2--hover g-mb-30 g-mb-0--md g-ml-minus-1 g-transition-0_2 g-transition--ease-in">
+            <div class="col-md-4 col-lg-4 g-parent g-brd-around g-brd-gray-light-v4 g-brd-bottom-white--hover g-brd-bottom-2--hover g-mb-30 g-mb-0--md g-ml-minus-1 g-transition-0_2 g-transition--ease-in">
               <!-- Icon Blocks -->
               <div class="text-center g-px-10 g-px-30--lg g-py-40 g-pt-25--parent-hover g-transition-0_2 g-transition--ease-in">
                 <span class="d-block g-color-white g-font-size-40 g-mb-15">
@@ -268,7 +268,7 @@
                 <h3 class="h5 text-uppercase g-color-white g-mb-10">High Availability</h3>
                 <p class="g-color-white">Jaminan bahwa bandwidth yang didapatkan sesuai dengan kapasitas bandwidth yang telah disepakati, tanpa adanya pemakaian bersama.</p>
 
-                <div class="d-inline-block g-width-40 g-brd-bottom g-brd-2 g-brd-primary g-my-15"></div>
+                <div class="d-inline-block g-width-40 g-brd-bottom g-brd-2 g-brd-white g-my-15"></div>
               </div>
               <!-- End Icon Blocks -->
             </div>
