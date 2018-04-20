@@ -52,18 +52,18 @@
                 <h2 class="h1 u-heading-v2__title g-line-height-1_3 g-font-weight-600 g-font-size-40 g-mb-minus-10">Tentang Kami</h2>
               </div>
 
-              <div id="accordion-04" class="u-accordion" role="tablist" aria-multiselectable="true">
+              <div id="cardaccordion" class="u-accordion" role="tablist" aria-multiselectable="true">
                 <!-- Card -->
                 <div class="card rounded-0 g-mb-5  g-mr-20" >
-                  <div id="accordion-04-heading-01" class="u-accordion__header" role="tab">
+                  <div id="profile-head" class="u-accordion__header" role="tab">
                     <h5 class="mb-0 g-font-weight-300">
-                      <a class="d-block u-link-v5 g-color-main g-text-center g-color-primary--hover g-font-size-16" href="#accordion-04-body-01" data-toggle="collapse" data-parent="#accordion-04" aria-expanded="true" aria-controls="accordion-04-body-01">
-                        <i class="fas fa-users g-mr-10"></i> 
+                      <a class="d-block u-link-v5 g-color-main g-text-center g-color-primary--hover g-font-size-16" href="#profile-body" data-toggle="collapse" data-parent="#cardaccordion" aria-expanded="true" aria-controls="profile-body">
+                        <i class="fa fa-users g-mr-10"></i> 
                         PROFILE
                       </a>
                     </h5>
                   </div>
-                  <div id="accordion-04-body-01" class="collapse show" role="tabpanel" aria-labelledby="accordion-04-heading-01">
+                  <div id="profile-body" class="collapse show" role="tabpanel" aria-labelledby="profile-head">
                     <div class="u-accordion__body g-brd-top g-brd-gray-light-v4 g-color-gray-dark-v5 g-font-size-20">
                       Indotrans Data berdiri pada tanggal 16 Agustus 2007 yang bergerak pada usaha perdagangan umum dan jasa dengan nomor akta pendirian : nomor 25. Melalui notaris Ny. Rose Takarina SH, di Jl. Kota bumi no 24 kebon Melati Jakarta Pusat 10230.
 
@@ -73,15 +73,15 @@
                 <!-- End Card -->
                 <!-- Card -->
                 <div class="card rounded-0 g-mb-5  g-mr-20">
-                  <div id="accordion-04-heading-02" class="u-accordion__header" role="tab">
+                  <div id="visi-misi-head" class="u-accordion__header" role="tab">
                     <h5 class="mb-0 g-font-weight-300">
-                      <a class="d-block collapsed u-link-v5 g-color-main g-color-primary--hover g-font-size-16" href="#accordion-04-body-02" data-toggle="collapse" data-parent="#accordion-04" aria-expanded="false" aria-controls="accordion-04-body-02">
-                        <i class="fas fa-file-alt g-mr-10"></i>
+                      <a class="d-block collapsed u-link-v5 g-color-main g-color-primary--hover g-font-size-16" href="#visi-misi-body" data-toggle="collapse" data-parent="#cardaccordion" aria-expanded="false" aria-controls="visi-misi-body">
+                        <i class="fa fa-file-alt g-mr-10"></i>
                         VISI DAN MISI
                       </a>
                     </h5>
                   </div>
-                  <div id="accordion-04-body-02" class="collapse" role="tabpanel" aria-labelledby="accordion-04-heading-02">
+                  <div id="visi-misi-body" class="collapse" role="tabpanel" aria-labelledby="visi-misi-head">
                     <div class="u-accordion__body g-brd-top g-brd-gray-light-v4 g-color-gray-dark-v5 g-font-size-20">
                       Indotrans Data memiliki Visi yang jelas untuk turut berjuang dan selalu berusaha memberikan andil dalam proses penggunaan internet serta menjaga eksistensi media internet sebagai media yang kompleks dan turut mengembangkan jaringan seluas-luasnya.
 
@@ -277,8 +277,8 @@
       </section>
       <!-- End Section Content -->
 
-      <!-- Powered By -->
-      <section id="powered" class="text-center g-py-80">
+      <!-- Client Section -->
+      <section id="client" class="text-center g-py-80">
         <div class="container">
           <div class="container g-width-780 g-mb-60">
             <div class="text-uppercase u-heading-v2-4--bottom g-brd-primary g-mb-45">
@@ -349,7 +349,7 @@
           </div>
         </div>
       </section>
-      <!-- End Powered By -->
+      <!-- End Client Section -->
 
       <footer>
         <div id="kontak" class="text-center g-color-gray-light-v2 g-theme-bg-blue-dark-v1 g-py-80">
@@ -372,9 +372,9 @@
                 <h3 class="text-uppercase g-font-size-default g-color-white g-mb-5">Nomor telepon</h3>
                  <a class="g-font-size-default g-color-white" href="tel:021-875-1818"><strong class="g-font-size-default g-color-white">(021) - 875 1818 (Office)</strong></a>
                  <br>
-                <a class="g-font-size-default g-color-white" href="tel:021-875-1818"><strong class="g-font-size-default g-color-white">(021) - 2904 1818 (Helpdesk)</strong></a>
+                <a class="g-font-size-default g-color-white" href="tel:021-2904-1818"><strong class="g-font-size-default g-color-white">(021) - 2904 1818 (Helpdesk)</strong></a>
                 <br>
-               <a class="g-font-size-default g-color-white" href="tel:021-875-1818"><strong class="g-font-size-default g-color-white">0815 1905 1381 (Whatsapp)</strong></a>
+               <a class="g-font-size-default g-color-white" href="https://api.whatsapp.com/send?phone=6281519051381"><strong class="g-font-size-default g-color-white">0815 1905 1381 (Whatsapp)</strong></a>
               </div>
               <div class="col-sm-3 g-brd-top g-brd-top-none--md g-brd-left--md g-brd-white g-px-15 g-py-30 g-py-0--md">
                 <i class="icon-envelope d-inline-block g-font-size-50 g-color-white g-mb-20"></i>
@@ -382,7 +382,7 @@
                 <a class="g-font-size-default g-color-white" href="mailto:info@indotrans.net.id"><strong>info@indotrans.net.id</strong></a>
               </div>
               <div class="col-sm-3 g-brd-top g-brd-top-none--md g-brd-left--md g-brd-primary g-px-15 g-py-30 g-py-0--md">
-                <i class="fab fa-facebook-square d-inline-block g-font-size-50 g-color-white g-mb-20"></i>
+                <i class="fa fa-facebook-square d-inline-block g-font-size-50 g-color-white g-mb-20"></i>
                
                 <h3 class="text-uppercase g-font-size-default g-color-white g-mb-5">Facebook</h3>
                 <a class="g-font-size-default g-color-white" href="https://facebook.com/PT.IndotransData/"><strong class="g-font-size-default g-color-white">@PT.IndotransData</strong></a>

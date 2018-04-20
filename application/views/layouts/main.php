@@ -31,7 +31,9 @@ if ( function_exists( 'date_default_timezone_set' ) ) {
     <link rel="stylesheet" href="<?php echo base_url();?>assets/vendor/icon-awesome/css/font-awesome.min.css">
     <link rel="stylesheet" href="<?php echo base_url();?>assets/vendor/icon-line/css/simple-line-icons.css">
     <link rel="stylesheet" href="<?php echo base_url();?>assets/vendor/icon-hs/style.css">
+    
     <link rel="stylesheet" href="<?php echo base_url();?>assets/vendor/hamburgers/hamburgers.min.css">
+    
     <link rel="stylesheet" href="<?php echo base_url();?>assets/vendor/animate.css">
     <link rel="stylesheet" href="<?php echo base_url();?>assets/vendor/slick-carousel/slick/slick.css">
 
@@ -39,10 +41,10 @@ if ( function_exists( 'date_default_timezone_set' ) ) {
     <link rel="stylesheet" href="<?php echo base_url();?>assets/css/unify-core.css">
     <link rel="stylesheet" href="<?php echo base_url();?>assets/css/unify-components.css">
     <link rel="stylesheet" href="<?php echo base_url();?>assets/css/unify-globals.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
-  <link rel="stylesheet" href="<?php echo base_url();?>assets/css/custom.css">
-  <!-- syntaxhighlight plugin -->
-  <link rel="stylesheet" href="<?php echo base_url();?>assets/plugin/syntax/styles/shCore.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
+    <link rel="stylesheet" href="<?php echo base_url();?>assets/css/custom.css">
+    <!-- syntaxhighlight plugin -->
+    <link rel="stylesheet" href="<?php echo base_url();?>assets/plugin/syntax/styles/shCore.css">
     <link rel="stylesheet" href="<?php echo base_url();?>assets/plugin/syntax/styles/shThemeDefault.css">
 
     <!-- CSS Template -->
@@ -83,7 +85,7 @@ if ( function_exists( 'date_default_timezone_set' ) ) {
                     <a href="#produklayanan" class="nav-link g-color-white p-0">Produk dan Layanan</a>
                   </li>
                   <li class="nav-item g-mx-15--lg g-mb-7 g-mb-0--lg">
-                    <a href="#powered" class="nav-link g-color-white p-0">Client</a>
+                    <a href="#client" class="nav-link g-color-white p-0">Client</a>
                   </li>
                   
                   <li class="nav-item g-mx-15--lg g-mb-7 g-mb-0--lg">
