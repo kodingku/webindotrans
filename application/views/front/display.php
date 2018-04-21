@@ -31,10 +31,10 @@
 	          </div>
 	        </div>
           </div>
-          <div class="js-slide g-bg-img-hero g-height-100vh g-min-height-500--md g-pt-130">
+          <div class="js-slide g-bg-img-hero g-height-100vh g-min-height-500--md g-pt-150">
           		<img class="img-fluid h-100 w-100" src="assets/img/Slider-SOHO.jpg" alt="Image description"> 
           </div>
-          <div class="js-slide g-bg-img-hero g-height-100vh g-min-height-500--md g-pt-130">
+          <div class="js-slide g-bg-img-hero g-height-100vh g-height-80--sm g-min-height-500--md g-pt-150">
           		<img class="img-fluid h-100 w-100" src="assets/img/Slider-Smarthome.jpg" alt="Image description"> 
           </div>
         </div>
