@@ -9,12 +9,15 @@ if ( function_exists( 'date_default_timezone_set' ) ) {
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Kukode.com</title>
+  <title>PT. Indotrans Data | Jasa Penyedia Internet</title>
     <!-- Required Meta Tags Always Come First -->
     <meta charset="utf-8">
+    
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-
+    <meta name="description" content="jasa internet bogor,jasa pembuatan software aplikasi daerah jabodetabek">
+    <meta name="keywords" content="jasa internet murah,internet bogor,internet rumah,jasa internet jabodetabek,isp di bogor">
+    <meta name="author" content="adirahman@kukode.com">
     <!-- Favicon -->
     <link rel="shortcut icon" href="../../favicon.ico">
 
@@ -32,15 +35,15 @@ if ( function_exists( 'date_default_timezone_set' ) ) {
     <link rel="stylesheet" href="<?php echo base_url();?>assets/vendor/animate.css">
     <link rel="stylesheet" href="<?php echo base_url();?>assets/vendor/slick-carousel/slick/slick.css">
 
-	<!-- CSS Unify -->
+  <!-- CSS Unify -->
     <link rel="stylesheet" href="<?php echo base_url();?>assets/css/unify-core.css">
     <link rel="stylesheet" href="<?php echo base_url();?>assets/css/unify-components.css">
     <link rel="stylesheet" href="<?php echo base_url();?>assets/css/unify-globals.css">
- 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
- 	<link rel="stylesheet" href="<?php echo base_url();?>assets/css/custom.css">
- 	<!-- syntaxhighlight plugin -->
-	<link rel="stylesheet" href="<?php echo base_url();?>assets/plugin/syntax/styles/shCore.css">
-   	<link rel="stylesheet" href="<?php echo base_url();?>assets/plugin/syntax/styles/shThemeDefault.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
+  <link rel="stylesheet" href="<?php echo base_url();?>assets/css/custom.css">
+  <!-- syntaxhighlight plugin -->
+  <link rel="stylesheet" href="<?php echo base_url();?>assets/plugin/syntax/styles/shCore.css">
+    <link rel="stylesheet" href="<?php echo base_url();?>assets/plugin/syntax/styles/shThemeDefault.css">
 
     <!-- CSS Template -->
     <link rel="stylesheet" href="<?php echo base_url();?>assets/css/styles.op-business.css">
@@ -51,14 +54,14 @@ if ( function_exists( 'date_default_timezone_set' ) ) {
 
     
 </head>
-<body style="background-image: url('<?php echo base_url()?>assets/img/bata.png');">
+<body>
     <main>  
       <!-- Header v1 -->
       <header id="js-header" class="u-header u-header--sticky-top u-header--change-appearance"
               data-header-fix-moment="100">
-        <div class="u-header__section g-theme-bg-blue-dark-v1-opacity-0_9 g-transition-0_3 g-py-25"
+        <div class="u-header__section g-transition-0_3 g-py-25"
              data-header-fix-moment-exclude="g-py-25"
-             data-header-fix-moment-classes="g-py-20">
+             data-header-fix-moment-classes="g-py-20" style="background-color: #ffa600">
           <nav class="navbar navbar-expand-lg py-0">
             <div class="container g-pos-rel">
               <!-- Logo -->
@@ -69,30 +72,22 @@ if ( function_exists( 'date_default_timezone_set' ) ) {
 
               <!-- Navigation -->
               <div class="collapse navbar-collapse align-items-center flex-sm-row" id="navBar">
-                <ul id="js-scroll-nav" class="navbar-nav text-uppercase g-letter-spacing-2 g-font-size-11 g-pt-20 g-pt-0--lg ml-auto">
+                <ul id="js-scroll-nav" class="navbar-nav text-uppercase g-letter-spacing-2 g-font-size-14  g-pt-20 g-pt-0--lg ml-auto">
                   <li class="nav-item g-mr-15--lg g-mb-7 g-mb-0--lg active">
-                    <a href="#home" class="nav-link g-color-white p-0">Home <span class="sr-only">(current)</span></a>
+                    <a href="#beranda" class="nav-link g-color-white p-0">Beranda<span class="sr-only">(current)</span></a>
                   </li>
                   <li class="nav-item g-mx-15--lg g-mb-7 g-mb-0--lg">
-                    <a href="#about" class="nav-link g-color-white p-0">About</a>
+                    <a href="#tentang" class="nav-link g-color-white p-0">Tentang Kami</a>
                   </li>
                   <li class="nav-item g-mx-15--lg g-mb-7 g-mb-0--lg">
-                    <a href="#services" class="nav-link g-color-white p-0">Services</a>
+                    <a href="#produklayanan" class="nav-link g-color-white p-0">Produk dan Layanan</a>
                   </li>
                   <li class="nav-item g-mx-15--lg g-mb-7 g-mb-0--lg">
-                    <a href="#processes" class="nav-link g-color-white p-0">Processes</a>
+                    <a href="#powered" class="nav-link g-color-white p-0">Client</a>
                   </li>
+                  
                   <li class="nav-item g-mx-15--lg g-mb-7 g-mb-0--lg">
-                    <a href="#projects" class="nav-link g-color-white p-0">Projects</a>
-                  </li>
-                  <li class="nav-item g-mx-15--lg g-mb-7 g-mb-0--lg">
-                    <a href="#howWeWork" class="nav-link g-color-white p-0">How we work</a>
-                  </li>
-                  <li class="nav-item g-mx-15--lg g-mb-7 g-mb-0--lg">
-                    <a href="#news" class="nav-link g-color-white p-0">News</a>
-                  </li>
-                  <li class="nav-item g-ml-15--lg">
-                    <a href="#contact" class="nav-link g-color-white p-0">Contact</a>
+                    <a href="#kontak" class="nav-link g-color-white p-0">Kontak</a>
                   </li>
                 </ul>
               </div>
@@ -117,14 +112,14 @@ if ( function_exists( 'date_default_timezone_set' ) ) {
         </div>
       </header>
       <!-- End Header v1 -->
-	 
+   
 
-	<div class="container-fluid">
-		<?php $this->load->view($main) ?>
-	</div>
+      <!-- Body v1 -->
+      <?php $this->load->view($main) ?>
+      <!-- End Body v1 -->
 
     </main>
-	
+  
     <!-- JS Global Compulsory -->
     <script src="<?php echo base_url();?>assets/vendor/jquery/jquery.min.js"></script>
     <script src="<?php echo base_url();?>assets/vendor/jquery-migrate/jquery-migrate.min.js"></script>
@@ -145,7 +140,7 @@ if ( function_exists( 'date_default_timezone_set' ) ) {
     <script src="<?php echo base_url();?>assets/js/components/hs.carousel.js"></script>
     <script src="<?php echo base_url();?>assets/js/components/gmap/hs.map.js"></script>
     <script src="<?php echo base_url();?>assets/js/components/hs.go-to.js"></script>
-
+    <script defer src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
     <!-- JS Customization -->
     <script src="<?php echo base_url();?>assets/js/custom.js"></script>
 
@@ -233,8 +228,8 @@ if ( function_exists( 'date_default_timezone_set' ) ) {
       });
     </script>
 
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAtt1z99GtrHZt_IcnK-wryNsQ30A112J0&callback=initMap" async></script>
-	
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAnhyOH5k4NfRrrhr72QVh_NSQpLsFk3c4&callback=initMap" async></script>
+  
 
 </body>
 </html>
