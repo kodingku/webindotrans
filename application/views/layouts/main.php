@@ -50,7 +50,7 @@ if ( function_exists( 'date_default_timezone_set' ) ) {
 
     <!-- CSS Customization -->
     <link rel="stylesheet" href="<?php echo base_url();?>assets/css/custom.css">
-
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css"
 
     
 </head>
@@ -115,9 +115,10 @@ if ( function_exists( 'date_default_timezone_set' ) ) {
    
 
       <!-- Body v1 -->
+      <div style="margin-top: 140px">
       <?php $this->load->view($main) ?>
       <!-- End Body v1 -->
-
+    </div>
     </main>
   
     <!-- JS Global Compulsory -->
@@ -143,7 +144,18 @@ if ( function_exists( 'date_default_timezone_set' ) ) {
     <script defer src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
     <!-- JS Customization -->
     <script src="<?php echo base_url();?>assets/js/custom.js"></script>
+    <script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>
 
+    <script type="text/javascript">
+        $(document).ready(function(){
+            $('#slider').bxSlider({
+              mode : 'vertical',
+              auto : true,
+              touchEnabled : true,
+              controls : false
+            });
+          });
+    </script>
     <!-- JS Plugins Init. -->
     <script>
       // initialization of google map
@@ -153,63 +165,11 @@ if ( function_exists( 'date_default_timezone_set' ) ) {
 
       $(document).on('ready', function () {
         // initialization of carousel
-        $.HSCore.components.HSCarousel.init('.js-carousel');
+        
 
-        $('#carouselCus1').slick('setOption', 'responsive', [{
-          breakpoint: 1200,
-          settings: {
-            slidesToShow: 2
-          }
-        }, {
-          breakpoint: 768,
-          settings: {
-            slidesToShow: 1
-          }
-        }], true);
+        
 
-        $('#carouselCus2').slick('setOption', 'responsive', [{
-          breakpoint: 1200,
-          settings: {
-            slidesToShow: 4
-          }
-        }, {
-          breakpoint: 992,
-          settings: {
-            slidesToShow: 3
-          }
-        }, {
-          breakpoint: 768,
-          settings: {
-            slidesToShow: 2
-          }
-        }, {
-          breakpoint: 576,
-          settings: {
-            slidesToShow: 1
-          }
-        }], true);
-
-        $('#carouselCus3').slick('setOption', 'responsive', [{
-          breakpoint: 1200,
-          settings: {
-            slidesToShow: 5
-          }
-        }, {
-          breakpoint: 992,
-          settings: {
-            slidesToShow: 4
-          }
-        }, {
-          breakpoint: 768,
-          settings: {
-            slidesToShow: 3
-          }
-        }, {
-          breakpoint: 576,
-          settings: {
-            slidesToShow: 2
-          }
-        }], true);
+       
 
         // initialization of go to section
         $.HSCore.components.HSGoTo.init('.js-go-to');
