@@ -165,11 +165,93 @@ if ( function_exists( 'date_default_timezone_set' ) ) {
 
       $(document).on('ready', function () {
         // initialization of carousel
+<<<<<<< HEAD
         
 
         
 
        
+=======
+        $.HSCore.components.HSCarousel.init('.js-carousel');
+
+        $('#carouselCus1').slick('setOption', 'responsive', [{
+          breakpoint: 1200,
+          settings: {
+            slidesToShow: 2
+          }
+        }, {
+          breakpoint: 768,
+          settings: {
+            slidesToShow: 1
+          }
+        }], true);
+
+        $('#carouselCus2').slick('setOption', 'responsive', [{
+          breakpoint: 1200,
+          settings: {
+            slidesToShow: 4
+          }
+        }, {
+          breakpoint: 992,
+          settings: {
+            slidesToShow: 3
+          }
+        }, {
+          breakpoint: 768,
+          settings: {
+            slidesToShow: 2
+          }
+        }, {
+          breakpoint: 576,
+          settings: {
+            slidesToShow: 1
+          }
+        }], true);
+
+        $('#carouselCus3').slick('setOption', 'responsive', [{
+          breakpoint: 1200,
+          settings: {
+            slidesToShow: 5
+          }
+        }, {
+          breakpoint: 992,
+          settings: {
+            slidesToShow: 4
+          }
+        }, {
+          breakpoint: 768,
+          settings: {
+            slidesToShow: 3
+          }
+        }, {
+          breakpoint: 576,
+          settings: {
+            slidesToShow: 2
+          }
+        }], true);
+		
+        $('#carouselCus4').slick('setOption', 'responsive', [{
+          breakpoint: 1200,
+          settings: {
+            slidesToShow: 5
+          }
+        }, {
+          breakpoint: 992,
+          settings: {
+            slidesToShow: 4
+          }
+        }, {
+          breakpoint: 768,
+          settings: {
+            slidesToShow: 3
+          }
+        }, {
+          breakpoint: 576,
+          settings: {
+            slidesToShow: 2
+          }
+        }], true);
+>>>>>>> 059e375d0517679a35c9bb9146ca5c4192b2b36a
 
         // initialization of go to section
         $.HSCore.components.HSGoTo.init('.js-go-to');
