@@ -1,6 +1,6 @@
 
       <!-- Section Content -->
-<<<<<<< HEAD
+
       <section id="beranda">
     
 
@@ -14,49 +14,9 @@
           		<img class="img-fluid" src="assets/img/Slider-SOHO.jpg" alt="Image description"> 
          
           		<img class="img-fluid" src="assets/img/Slider-Smarthome.jpg" alt="Image description"> 
-=======
-      <section id="beranda" class="g-pos-rel">
-        <div class="js-carousel g-overflow-hidden g-max-height-100vh"
-             data-autoplay="true"
-             data-infinite="true"
-             data-fade="true"
-             data-speed="5000">
-
-          <div class="js-slide g-bg-img-hero g-height-100vh g-min-height-500--md" style="background-image: url(assets/img/Slider-Excellent-Server.jpg);">
-          	<div class="g-absolute-centered w-100">
-	          <div class="container text-center g-width-780">
-	            <div class="info-v3-4 g-theme-bg-blue-dark-v1-opacity-0_9 g-pa-20 g-pa-60--md">
-	              <div class="g-pos-rel g-z-index-3">
-	                <h3 class="h3 text-uppercase g-letter-spacing-3 g-font-size-default g-color-white g-mb-10">HOSTING, DEDICATED, ATAU COLLOCATION SERVER</h3>
-	                <h2 class="h2 text-uppercase g-color-white g-letter-spacing-5 g-font-weight-400 g-font-size-25 g-font-size-35--md g-mb-20">DATA CENTER EKSKLUSIF POWERED BY CNDC</h2>
-	              </div>
-	            </div>
-	          </div>
-	          </div>
-          </div>
-          <div class="js-slide g-bg-img-hero g-height-100vh g-min-height-500--md" style="background-image: url(assets/img/Slider-Wide-Interconnection.jpg);">      	
-	        <div class="g-absolute-centered w-100">
-	          <div class="container text-center g-width-780">
-	            <div class="info-v3-4 g-theme-bg-blue-dark-v1-opacity-0_9 g-pa-20 g-pa-60--md">
-	              <div class="g-pos-rel g-z-index-3">
-	                <h3 class="h3 text-uppercase g-letter-spacing-3 g-font-size-default g-color-white g-mb-10">INTERKONEKSI KE SELURUH PELOSOK INDONESIA</h3>
-	                <h2 class="h2 text-uppercase g-color-white g-letter-spacing-5 g-font-weight-400 g-font-size-25 g-font-size-35--md g-mb-20">DENGAN MENGGUNAKAN TEKNOLOGI VSAT</h2>
-	              </div>
-	            </div>
-	          </div>
-	        </div>
-          </div>
-          <div class="js-slide g-bg-img-hero g-min-height-500--md g-pt-150">
-          		<img class="img-fluid h-100 w-100" src="assets/img/Slider-SOHO.jpg" alt="Image description"> 
-          </div>
-          <div class="js-slide g-bg-img-hero g-height-1000vh--lg g-min-height-500--md g-pt-150">
-          		<img class="img-fluid h-100 w-100" src="assets/img/Slider-Smarthome.jpg" alt="Image description"> 
->>>>>>> 059e375d0517679a35c9bb9146ca5c4192b2b36a
-          </div>
-        
-      </section>
-      <!-- End Section Content -->
-
+            </div>
+    </div>
+      
       <!-- Section Content -->
       <section id="tentang" class="g-py-80">
         <div class="container">
