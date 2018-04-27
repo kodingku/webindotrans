@@ -122,19 +122,13 @@
           </div>
         </div>
 
-        <div class="container">
+        <div class="container" >
+          <div id="inner-content-div">
           <div class="row">
             <div class="col-lg-6 g-px-30 g-mb-40">
               <!-- Icon Blocks -->
               <div class="g-pos-rel g-parent g-theme-bg-blue-dark-v2 g-py-35 g-px-25 g-pl-70--sm">
-                <div class="g-hidden-xs-down g-absolute-centered--y g-left-0">
-                  <div class="g-pull-50x-left g-brd-around g-brd-5 g-brd-primary-dark-v3 g-rounded-50x g-overflow-hidden">
-                    <span class="d-block g-pos-abs g-top-0 g-left-0 g-width-95 g-height-95 g-brd-around g-brd-5 g-brd-primary g-rounded-50x" style="background-image: url(assets/img-temp/80x80/img1.jpg);"></span>
-                    <span class="u-icon-v3 u-icon-size--xl g-width-95 g-height-95 g-color-white g-bg-primary g-opacity-1 opacity-0--parent-hover g-transition-0_1 g-transition--ease-in">
-                      <i class="icon-fire"></i>
-                    </span>
-                  </div>
-                </div>
+               
 
                 <h3 class="h5 text-uppercase g-color-gray-light-v2 g-mb-10">Internet Services</h3>
                 <p class="g-color-gray-light-v2 mb-0">Menyediakan bandwidth berkapasitas besar dan akses internet broadband untuk korporat dan individual dengan berbagai media.</p>
@@ -145,14 +139,7 @@
             <div class="col-lg-6 g-px-30 g-mb-40">
               <!-- Icon Blocks -->
               <div class="g-pos-rel g-parent g-theme-bg-blue-dark-v2 g-py-35 g-px-25 g-pl-70--sm">
-                <div class="g-hidden-xs-down g-absolute-centered--y g-left-0">
-                  <div class="g-pull-50x-left g-brd-around g-brd-5 g-brd-primary-dark-v3 g-rounded-50x g-overflow-hidden">
-                    <span class="d-block g-pos-abs g-top-0 g-left-0 g-width-95 g-height-95 g-brd-around g-brd-5 g-brd-primary g-rounded-50x" style="background-image: url(assets/img-temp/80x80/img2.jpg);"></span>
-                    <span class="u-icon-v3 u-icon-size--xl g-width-95 g-height-95 g-color-white g-bg-primary g-opacity-1 opacity-0--parent-hover g-transition-0_1 g-transition--ease-in">
-                      <i class="icon-energy"></i>
-                    </span>
-                  </div>
-                </div>
+                
 
                 <h3 class="h5 text-uppercase g-color-gray-light-v2 g-mb-10">WAN & LAN Network</h3>
                 <p class="g-color-gray-light-v2 mb-0">Perancangan Area Network, pemilihan peralatan, implementasi, dan perawatan. Perancangan Wide Area Network (WAN), pemilihan teknologi dan media, pemilihan penyedia jasa jaringan, implementasi, dan perawatan.</p>
@@ -167,14 +154,7 @@
             <div class="col-lg-6 g-px-30 g-mb-40">
               <!-- Icon Blocks -->
               <div class="g-pos-rel g-parent g-theme-bg-blue-dark-v2 g-py-35 g-px-25 g-pl-70--sm">
-                <div class="g-hidden-xs-down g-absolute-centered--y g-left-0">
-                  <div class="g-pull-50x-left g-brd-around g-brd-5 g-brd-primary-dark-v3 g-rounded-50x g-overflow-hidden">
-                    <span class="d-block g-pos-abs g-top-0 g-left-0 g-width-95 g-height-95 g-brd-around g-brd-5 g-brd-primary g-rounded-50x" style="background-image: url(assets/img-temp/80x80/img3.jpg);"></span>
-                    <span class="u-icon-v3 u-icon-size--xl g-width-95 g-height-95 g-color-white g-bg-primary g-opacity-1 opacity-0--parent-hover g-transition-0_1 g-transition--ease-in">
-                      <i class="icon-rocket"></i>
-                    </span>
-                  </div>
-                </div>
+                
 
                 <h3 class="h5 text-uppercase g-color-gray-light-v2 g-mb-10">Cloud Nusantara Data Center</h3>
                 <p class="g-color-gray-light-v2 mb-0">Fasilitas server collocation, dedicated, dan penyewaan rak server. Didukung dengan Data Center Independent powered by CNDC (Cloud Nusantara Data Center) dengan standar fasilitas, security, dan availibility sebuah data center.</p>
@@ -185,14 +165,7 @@
             <div class="col-lg-6 g-px-30 g-mb-40">
               <!-- Icon Blocks -->
               <div class="g-pos-rel g-parent g-theme-bg-blue-dark-v2 g-py-35 g-px-25 g-pl-70--sm">
-                <div class="g-hidden-xs-down g-absolute-centered--y g-left-0">
-                  <div class="g-pull-50x-left g-brd-around g-brd-5 g-brd-primary-dark-v3 g-rounded-50x g-overflow-hidden">
-                    <span class="d-block g-pos-abs g-top-0 g-left-0 g-width-95 g-height-95 g-brd-around g-brd-5 g-brd-primary g-rounded-50x" style="background-image: url(assets/img-temp/80x80/img4.jpg);"></span>
-                    <span class="u-icon-v3 u-icon-size--xl g-width-95 g-height-95 g-color-white g-bg-primary g-opacity-1 opacity-0--parent-hover g-transition-0_1 g-transition--ease-in">
-                      <i class="icon-layers"></i>
-                    </span>
-                  </div>
-                </div>
+                
 
                 <h3 class="h5 text-uppercase g-color-gray-light-v2 g-mb-10">Hosting & Domain</h3>
                 <p class="g-color-gray-light-v2 mb-0">Menyediakan juga layanan hosting untuk website, penyimpanan data online dan konten lainnya. Menerima juga pendaftaran domain internasional dan semua jenis domain indonesia (dot id).</p>
@@ -200,6 +173,7 @@
               <!-- End Icon Blocks -->
             </div>
           </div>
+        </div>
           <!-- End Icon Blocks -->
           <div class="text-uppercase text-center u-heading-v2-4--bottom g-brd-primary g-mb-80">
             <h2 class="h1 u-heading-v2__title g-line-height-1_3 g-color-white g-font-weight-600 g-font-size-40 g-mb-minus-10">Jaminan yang Diberikan</h2>

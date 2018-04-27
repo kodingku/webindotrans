@@ -142,10 +142,23 @@ if ( function_exists( 'date_default_timezone_set' ) ) {
     <script src="<?php echo base_url();?>assets/js/components/gmap/hs.map.js"></script>
     <script src="<?php echo base_url();?>assets/js/components/hs.go-to.js"></script>
     <script defer src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
+    
     <!-- JS Customization -->
     <script src="<?php echo base_url();?>assets/js/custom.js"></script>
+    <script src="<?php echo base_url();?>assets/js/jquery.slimscroll.min.js"></script>
     <script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>
-
+   
+    <script type="text/javascript">
+      
+      $(function(){
+        $('#inner-content-div').slimScroll({
+          height: '350px',
+          width: '100%',
+          color: 'red',
+          alwaysVisible: true
+        });
+      });
+    </script>
     <script type="text/javascript">
         $(document).ready(function(){
             $('#slider').bxSlider({
@@ -154,7 +167,9 @@ if ( function_exists( 'date_default_timezone_set' ) ) {
               touchEnabled : true,
               controls : false
             });
+
           });
+       
     </script>
     <!-- JS Plugins Init. -->
     <script>
